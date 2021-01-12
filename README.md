@@ -1,6 +1,6 @@
 # Precision bug reproduction
 
-# [Live example](https://github.io/jure/precision-bug-repro)
+# [Live example](https://jure.github.io/precision-bug-repro/)
 
 ## Description
 
